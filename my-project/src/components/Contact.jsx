@@ -39,7 +39,7 @@ const Contact = () => {
 		
 		<div>
 		 <h3>Visit Our Bar</h3>
-		 <p>456, Raq Blvd. #404, Los Angeles, CA 90210</p>
+		 <p>456, Raq Blvd. #404, Los Angeles, CA 9021</p>
 		</div>
 		
 		<div>
